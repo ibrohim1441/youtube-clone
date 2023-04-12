@@ -1,0 +1,33 @@
+.realmadrid{
+  margin-top: 20px;
+  margin-left: 12px;
+}
+
+
+.windows_open{
+  max-width: 82%;
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.windows_close{
+  margin-top: 40px;
+}
+
+.next_pre{
+  width: 25px;
+  height: 25px;
+  /* padding: 10px; */
+  background-color: grey;
+  color: white;
+}
+.next_next{
+  width: 25px;
+  height: 25px;
+  /* padding: 10px; */
+  background-color: grey;
+  color: white;
+}
+
+

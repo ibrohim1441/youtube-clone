@@ -1,0 +1,38 @@
+// .header_items_navLeft{
+//   display: none;
+
+.main_box {
+  display: none;
+}
+
+@media screen and (max-width: 450px) {
+  .main {
+    display: none;
+
+    &_box {
+      display: block;
+      // max-width: 400px;
+      margin-left: 30px;
+      text-align: center;
+      margin-top: 25px;
+
+     
+    }
+  }
+
+  .icons {
+    display: block;
+    &_box {
+      display: flex;
+      gap: 65px;
+       &_real{
+        width: 120px;
+        height: 120px;
+      }
+    }
+  }
+}
+
+// .icons {
+//   display: none;
+// }

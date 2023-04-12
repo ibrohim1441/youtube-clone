@@ -1,0 +1,20 @@
+.input_one{
+  width: 800px;
+}
+
+
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.darkmode{
+  padding: 10px;
+}
+
+
+
+.header_ping{
+  display: none;
+}  

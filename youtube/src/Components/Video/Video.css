@@ -1,0 +1,15 @@
+.videoopen{
+  max-width: 98%;
+  
+  display: flex;
+  gap: 50px;
+}
+
+.videoclose{
+  /* max-width: 320px; */
+  margin-left: 80px;
+}
+
+.video_close_open{
+  width: 320px;
+}

@@ -1,0 +1,53 @@
+.Subscribe{
+  display: none;
+}
+
+@media screen and (max-width: 350px) {
+   
+
+   .videoopen{
+    display: flex;
+    flex-direction: column;
+   }
+
+   .iframe_dark{
+    max-width: 320px;
+    margin-left: -80px;
+   }
+  // .phone_res{
+  //   display: none;
+  // }
+  .videoclose{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+
+  .like_comment{
+    // padding: 10px 20px;
+    width: 100px;
+    height: 40px;
+    // display: flex;
+    // gap: 50px;
+    // margin-left: 50px;
+  }
+
+  .icons_nuqta{
+    display: none;
+  }
+  .comment{
+    display: none;
+  }
+  // .comments{
+    
+  // }
+
+  .Subscribe{
+    display: block;
+  }
+
+  .video_close_open{
+    // margin-left: 50px;
+    max-width: 90%;
+  }
+}

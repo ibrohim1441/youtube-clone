@@ -1,0 +1,27 @@
+@media screen and (max-width: 350px) {
+  .header{
+    display: none;
+
+    &_ping{
+      display: block;
+    }
+
+    &_close{
+      display: block;
+      max-width: 340px;
+      padding-top: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+
+  } 
+}
+
+// .header_close{
+//   display: none;
+// }
+
+.search_close{
+  width: 28px;
+  height: 28px;
+}
